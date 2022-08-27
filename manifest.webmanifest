@@ -1,1 +1,1 @@
-{"name":"previewPRJ","short_name":"previewPRJ","start_url":"/","display":"standalone","background_color":"#6366f1","lang":"en","scope":"/","description":"","theme_color":"#6366f1"}
+{"name":"previewPRJ","short_name":"previewPRJ","start_url":"./","display":"standalone","background_color":"#6366f1","lang":"en","scope":"./","description":"","theme_color":"#6366f1"}
